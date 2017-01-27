@@ -41,7 +41,7 @@ module.exports = {
     'no-plusplus': ['error', { 
       // e.g., allow for (let i = 0; i < 10; i++) but no other use of ++
       allowForLoopAfterthoughts: true 
-    }]
+    }],
 
     // prevent React from being incorrectly marked as unused
     'react/jsx-uses-react': 'error',
